@@ -2,18 +2,18 @@
     "description": "Project Description",
 
     "domain": "CuteAuth.dev",
-    "subdomain": "example",
+    "subdomain": "CutiAuth",
 
     "owner": {
-        "repo": "https://github.com/username/repo",
-        "email": "hello@example.com"
+        "repo": "https://github.com/NotName1999/register",
+        "email": "xinchaomoi84@outlook.com.vn"
     },
 
     "record": {
         "A": ["1.1.1.1", "1.0.0.1"],
         "AAAA": ["::1", "::2"],
-        "CNAME": "example.com",
-        "MX": ["mx1.example.com", "mx2.example.com"],
+        "CNAME": "CuteAuth.dev",
+        "MX": ["api.CuteAuth.dev", "api.CutiAuth.dev"],
         "TXT": ["example_verification=1234567890"]
     },
 
