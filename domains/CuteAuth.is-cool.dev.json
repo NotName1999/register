@@ -1,0 +1,17 @@
+{
+    "description": "Project Description",
+
+    "domain": "is-cool.dev", // cái này chỉ chọn trong list, không tuỳ chỉnh được
+    "subdomain": "CuteAuth", // cái này chỉnh sao cũng được
+
+  "owner": {
+        "repo": "https://github.com/NotName1999/register",
+        "email": "xinchaomoi84@outlook.com.vn"
+    },
+
+    "record": {
+        "CNAME": "https://trinhcuti204.000webhostapp.com/",
+    },
+
+    "proxied": false
+}
